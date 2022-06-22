@@ -1,5 +1,5 @@
 # challenge-oracle-decoder
 
-## This is a simple App text encoder propose for Oracle-Next-Education with Alura Latam 
+## This is the First challenge of the oracle one next education bootcamp dictated by Alura Latam.
 
 *The same has a clear logic encrypting and a quick entry validations* 
